@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Fardeen.
-- 👀 I’m interested in new tech, especially in the sustainability field.
-- 🌱 I’m currently learning Docker and Kubernetes to be able to containerize and deploy backend microservices.
+- 👋 Hi, I’m Fardeen
+- 👀 I’m interested in new tech, especially in the sustainability field!
+- 🌱 I’m currently learning Docker and Kubernetes to be able to containerize and deploy backend microservices
 - 📫 Reach out to me at my LinkedIn: https://www.linkedin.com/in/fardeenajmal/
 
 <!---
